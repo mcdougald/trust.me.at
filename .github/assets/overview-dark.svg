@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="302" viewBox="0 0 880 302" role="img" aria-label="trust.me.at at a glance: Encrypted in your browser, Gone after one view, Safe from link previews, No account, or an API">
+<rect x="0.5" y="0.5" width="879" height="301" rx="12" fill="#0a0a0a" stroke="#262626"/>
+<rect x="24" y="24" width="196" height="254" rx="10" fill="#171717" stroke="#262626"/>
+<text x="44" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#525252">01</text>
+<line x1="72" y1="56" x2="200" y2="56" stroke="#404040" stroke-width="1"/>
+<text x="44" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#fafafa" font-weight="600"><tspan x="44" dy="0">Encrypted in</tspan><tspan x="44" dy="22">your browser</tspan></text>
+<text x="44" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#a3a3a3"><tspan x="44" dy="0">The key is made in</tspan><tspan x="44" dy="21">your tab and rides</tspan><tspan x="44" dy="21">the URL fragment. The</tspan><tspan x="44" dy="21">server stores only</tspan><tspan x="44" dy="21">ciphertext it cannot</tspan><tspan x="44" dy="21">read.</tspan></text>
+<rect x="236" y="24" width="196" height="254" rx="10" fill="#171717" stroke="#262626"/>
+<text x="256" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#525252">02</text>
+<line x1="284" y1="56" x2="412" y2="56" stroke="#404040" stroke-width="1"/>
+<text x="256" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#fafafa" font-weight="600"><tspan x="256" dy="0">Gone after one</tspan><tspan x="256" dy="22">view</tspan></text>
+<text x="256" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#a3a3a3"><tspan x="256" dy="0">Revealing a secret</tspan><tspan x="256" dy="21">deletes it in the</tspan><tspan x="256" dy="21">same step. Burned,</tspan><tspan x="256" dy="21">expired and unknown</tspan><tspan x="256" dy="21">links all look the</tspan><tspan x="256" dy="21">same.</tspan></text>
+<rect x="448" y="24" width="196" height="254" rx="10" fill="#171717" stroke="#262626"/>
+<text x="468" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#525252">03</text>
+<line x1="496" y1="56" x2="624" y2="56" stroke="#404040" stroke-width="1"/>
+<text x="468" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#fafafa" font-weight="600"><tspan x="468" dy="0">Safe from link</tspan><tspan x="468" dy="22">previews</tspan></text>
+<text x="468" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#a3a3a3"><tspan x="468" dy="0">A link opens a static</tspan><tspan x="468" dy="21">page. Only an</tspan><tspan x="468" dy="21">explicit reveal burns</tspan><tspan x="468" dy="21">it, so a chat unfurl</tspan><tspan x="468" dy="21">cannot use it up.</tspan></text>
+<rect x="660" y="24" width="196" height="254" rx="10" fill="#171717" stroke="#262626"/>
+<text x="680" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#525252">04</text>
+<line x1="708" y1="56" x2="836" y2="56" stroke="#404040" stroke-width="1"/>
+<text x="680" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#fafafa" font-weight="600"><tspan x="680" dy="0">No account, or</tspan><tspan x="680" dy="22">an API</tspan></text>
+<text x="680" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#a3a3a3"><tspan x="680" dy="0">Anonymous secrets</tspan><tspan x="680" dy="21">need no sign-in. CI</tspan><tspan x="680" dy="21">pushes ciphertext</tspan><tspan x="680" dy="21">over a cookie-free</tspan><tspan x="680" dy="21">REST API with a</tspan><tspan x="680" dy="21">bearer key.</tspan></text>
+</svg>
